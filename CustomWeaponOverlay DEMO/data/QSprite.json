@@ -1,0 +1,72 @@
+{
+  "PartyMember": {
+    "name": "PartyMember",
+    "cols": 8,
+    "rows": 12,
+    "anchorX": 0.5,
+    "anchorY": 1,
+    "sampleImg": "C:\\Users\\tayms\\Videos\\RPGMaker\\Games\\Project1\\img\\characters\\%PartyMember-FemC.png",
+    "poses": {
+      "move2": {
+        "name": "move2",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "move4": {
+        "name": "move4",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "move6": {
+        "name": "move6",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "move8": {
+        "name": "move8",
+        "speed": 7,
+        "adjust": false,
+        "pattern": [
+          56,
+          57,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63
+        ]
+      }
+    }
+  }
+}
